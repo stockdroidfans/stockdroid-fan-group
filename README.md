@@ -6,7 +6,7 @@
   Gruppo telegrammico ufficiale dei fan di Stockdroid📱
 </h2>
 <h3 align="center">
-  <a href="tg://openmessage?chat_id=-1001155864201">
+  <a href="https://t.me/stockdroidfans">
     <img src="https://img.shields.io/badge/dynamic/json?label=utenti%20attivi&query=result&url=https%3A%2F%2Fapi.telegram.org%2Fbot484751650%3AAAFs4rg8WCfuY446K9yiOUqQPovtI7ratjs%2FgetChatMembersCount%3Fchat_id%3D%40stockdroidfans"/>
   </a>
 </h3>
